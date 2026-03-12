@@ -8,4 +8,4 @@ You wanna autofill some websites. Using my bot can help you open websites like g
 
 # How it work
 - Enter a link following in cmd
-- If you wanna open chrome, enter "y" when asking "open headless"
+- If you wanna open chrome, enter "n" when asking "open headless"
