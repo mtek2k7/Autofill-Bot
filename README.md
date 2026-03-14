@@ -5,13 +5,15 @@
 
 The bot accepts answers in a simple format such as:
 
-(option 1 / option 4 / option 5) for mode 1
+####Mode 1
+```option 1 / option 4 / option 5``` 
 
 or
+####Mode 2
 ```
-(option 1  
+ option 1  
  option 2  
- option 3) for mode 2
+ option 3
 ```
 After receiving this input, the bot will:
 
