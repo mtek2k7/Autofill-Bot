@@ -9,7 +9,7 @@ The bot accepts answers in a simple format such as:
 ```option 1 / option 4 / option 5``` 
 
 or
-####Mode 2
+*Mode 2:*   
 ```
  option 1  
  option 2  
