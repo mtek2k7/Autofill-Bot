@@ -8,7 +8,7 @@ The bot accepts answers in a simple format such as:
 *Mode 1:*   
 ```option 1 / option 4 / option 5``` 
 
-or
+or   
 *Mode 2:*   
 ```
  option 1  
@@ -31,14 +31,16 @@ If a question requires selecting:
 
 You simply enter:
 
-(option 1 / option 4 / option 5) in mode 1
+*Mode 1:*   
+```option 1 / option 4 / option 5``` 
 
-or
-'''
-(option 2  
- option 4  
- option 5) in mode 2
-'''
+or   
+*Mode 2:*   
+```
+ option 1  
+ option 2  
+ option 3
+```
 The bot will automatically select these options in the form.
 
 ### Benefits
@@ -52,14 +54,16 @@ The bot will automatically select these options in the form.
 
 You can ask an AI or system to answer all multiple-choice questions and output the results in this format:
 
-(option 1 / option 4 / option 5)
+*Mode 1:*   
+```option 1 / option 4 / option 5``` 
 
-or
-'''
-(option 1  
- option 4  
- option 5)
-'''
+or   
+*Mode 2:*   
+```
+ option 1  
+ option 2  
+ option 3
+```
 Then paste that line into **Autofill Bot**, and it will quickly select the answers in the form for you.
 
 # How to setup
