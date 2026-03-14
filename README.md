@@ -12,6 +12,7 @@ The bot accepts answers in a simple format such as:
  option 3
 ```
 or   
+
 *Mode 2:*   
 ```
  option 1 / option 4 / option 5
