@@ -5,7 +5,7 @@
 
 The bot accepts answers in a simple format such as:
 
-*Mode 1*
+*Mode 1:*
 ```option 1 / option 4 / option 5``` 
 
 or
