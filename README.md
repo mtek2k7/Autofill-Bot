@@ -8,11 +8,11 @@ The bot accepts answers in a simple format such as:
 (option 1 / option 4 / option 5) for mode 1
 
 or
-
+'''
 (option 1  
  option 2  
  option 3) for mode 2
-
+'''
 After receiving this input, the bot will:
 
 * Detect the corresponding options in the question
@@ -32,11 +32,11 @@ You simply enter:
 (option 1 / option 4 / option 5) in mode 1
 
 or
-
+'''
 (option 2  
  option 4  
  option 5) in mode 2
-
+'''
 The bot will automatically select these options in the form.
 
 ### Benefits
@@ -53,11 +53,11 @@ You can ask an AI or system to answer all multiple-choice questions and output t
 (option 1 / option 4 / option 5)
 
 or
-
+'''
 (option 1  
  option 4  
  option 5)
-
+'''
 Then paste that line into **Autofill Bot**, and it will quickly select the answers in the form for you.
 
 # How to setup
