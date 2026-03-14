@@ -8,11 +8,11 @@ The bot accepts answers in a simple format such as:
 (option 1 / option 4 / option 5) for mode 1
 
 or
-'''
+```
 (option 1  
  option 2  
  option 3) for mode 2
-'''
+```
 After receiving this input, the bot will:
 
 * Detect the corresponding options in the question
