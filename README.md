@@ -87,5 +87,5 @@ or
 Then paste that line into **Autofill Bot**, and it will quickly select the answers in the form for you.
 
 # How to use
-- First, click file autofill_bot.exe
-- Second, please contact me for key
+- First, click '<>Code' before clicking 'Download zip'
+- Second, open file autofill_bot.exe in file .zip
