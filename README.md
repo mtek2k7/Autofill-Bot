@@ -2,10 +2,18 @@
 **Autofill Bot** is a tool designed to automatically fill answers in forms or multiple-choice quizzes. Instead of manually selecting each option, the bot allows you to input answers in a single line and automatically fills the corresponding **radio buttons** or **checkboxes**.
 
 ### How It Works
-
+##No.1
+- Input key (contact me)
+##No.2
+- After inputing a key, bot ask "Enter URL - page (For example Google Form or other pages which have checkbox, radio):", you input a link which have checkbox, radio that you request bot mark on
+- Next step, choosing a mode
+```  
+  1) Input String list (enter the number of string before entering string by string respectively).
+  2) Input One line, items separated by '/' (for example: a / b / !Subscribe). like below:
+```
 The bot accepts answers in a simple format such as:
 
-*Mode 1:*   
+*Mode 1 - how many option do you want to fill. For example: I wanna input 3 options -> Enter '3' -> Enter respectively:*   
 ```
  option 1  
  option 2  
@@ -13,16 +21,10 @@ The bot accepts answers in a simple format such as:
 ```
 or   
 
-*Mode 2:*   
+*Mode 2 - enter instantly like below structure:*   
 ```
  option 1 / option 4 / option 5
-``` 
-
-After receiving this input, the bot will:
-
-* Detect the corresponding options in the question
-* Automatically select the correct **radio buttons** or **checkboxes**
-* Fill the answers according to the provided order
+```
 
 ### Example
 
@@ -46,7 +48,18 @@ or
 ```
  option 1 / option 4 / option 5
 ``` 
-The bot will automatically select these options in the form.
+
+After receiving this input, the bot will:
+
+* Detect the corresponding options in the question
+* Automatically select the correct **radio buttons** or **checkboxes** in the form
+* Fill the answers according to the provided order
+##No.3
+- Login in: If your website require log in, you enter 'y'
+- Enter username and password (note: If you log in on "Google account", please logging in manually)
+##No.4
+- How many times do you want the bot to run (integer >=1): bot will open a number of tab you enter.
+- Run headless? (y/n): if you want bot to open chorme enter 'n'
 
 ### Benefits
 
@@ -76,7 +89,3 @@ Then paste that line into **Autofill Bot**, and it will quickly select the answe
 # How to setup
 - First, open file .exe before entering a key
 - Second, please contact me for key
-
-# How it work
-- Enter a link following in cmd
-- If you wanna open chrome, enter "n" when asking "open headless"
