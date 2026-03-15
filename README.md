@@ -88,4 +88,4 @@ Then paste that line into **Autofill Bot**, and it will quickly select the answe
 
 # How to use
 - First, click '<>Code' before clicking 'Download zip'
-- Second, open file autofill_bot.exe in file .zip
+- Second, open file autofill_bot.exe in file Autofill-Bot-main.zip
