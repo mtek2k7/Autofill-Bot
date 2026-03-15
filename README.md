@@ -26,7 +26,7 @@ or
  option 1 / option 4 / option 5
 ```
 
-**Example: **
+**Example:**
 
 If a question requires selecting:
 
