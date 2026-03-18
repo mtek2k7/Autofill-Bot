@@ -34,14 +34,24 @@ The bot accepts answers in a simple format such as:
 option 1  
  option 2  
  option 3
-or *Mode 2 - enter instantly like below structure:*
+
+or 
+
+*Mode 2 - enter instantly like below structure:*
 option 1 / option 4 / option 5
-**Example:** If a question requires selecting: * Option 1 * Option 4 * Option 5 You simply enter: 
+
+
+**Example:** 
+
+If a question requires selecting: * Option 1 * Option 4 * Option 5 You simply enter:   
+
 *Mode 1:*
 option 1  
  option 2  
  option 3
+
 or 
+
 *Mode 2:*
 option 1 / option 2 / option 3
 
