@@ -22,7 +22,7 @@
 - Radio	              |	radio:Gender:Male	      |	Select the radio button labeled "Male" in the "Gender" group
 					  |							  |
 - Button / Submit     |	submit, (submit), next,   |	Click a button with text similar to the target.
-/ Next                |	click:Continue            |	Bot will scroll into view and wait for page load or URL change
+/ Next / Tiếp         |	click:Continue            |	Bot will scroll into view and wait for page load or URL change
 		
 
 💡 Tip: Labels do not need to be exact. The bot supports fuzzy match and contains match.
