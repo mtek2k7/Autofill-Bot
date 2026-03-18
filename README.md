@@ -11,7 +11,7 @@
   1) Input String list (enter the number of string before entering string by string respectively).
   2) Input One line, items separated by '/' (for example: a / b / !Subscribe). like below:
   3) Syntax:
-'''
+```
       Action	          |    Example target  |  Description
 ---------------------------------------------------------------------
 Checkbox	              |    checkbox:Yes	   |  Tick the checkbox with label "Yes"
@@ -22,8 +22,7 @@ Button / Submit / Next  |	submit, (submit),  |
                         |next, click:Continue|Click a button with text similar to the target. Bot will scroll into view and wait for page load or URL change
 
 💡 Tip: Labels do not need to be exact. The bot supports fuzzy match and contains match.
-
-'''
+```
 
 The bot accepts answers in a simple format such as:
 
