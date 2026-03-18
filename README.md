@@ -9,7 +9,10 @@
 - Next step, choosing a mode
 
   **1. Input String list (enter the number of string before entering string by string respectively).**  
-  **2. Syntax:**   
+  **2. Syntax:**
+
+
+  
 | Prefix / Syntax               | Action                      | Description / Notes                                                                                  |
 | ----------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------- |
 | `checkbox:Label`              | Check a checkbox            | Finds the checkbox with the given label (exact or fuzzy match).                                      |
