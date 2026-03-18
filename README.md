@@ -30,18 +30,18 @@
 #### 3) Input One line, items separated by '/' (for example: a / b / !Subscribe / (Submit). like below:
 The bot accepts answers in a simple format such as:
 
-*Mode 1 - how many option do you want to fill. For example: I wanna input 3 options -> Enter '3' -> Enter respectively:*   
-```
- option 1  
- option 2  
- option 3
-```
+*Mode 1 - how many options do you want to fill. For example: I wanna input 3 options -> Enter '3' -> Enter respectively:*   
+    ```
+    option 1  
+    option 2  
+    option 3
+    ```
 or   
 
 *Mode 2 - enter instantly like below structure:*   
-```
- option 1 / option 4 / option 5
-```
+    ```
+    option 1 / option 4 / option 5
+    ```
 
 **Example:**
 
@@ -54,14 +54,17 @@ If a question requires selecting:
 You simply enter:
 
 *Mode 1:*   
-```
- option 1  
- option 2  
- option 3
-```
+    ```
+    option 1  
+    option 2  
+    option 3
+    ```
 or   
 
-*Mode 2:*   
+*Mode 2:* 
+    ```
+    option 1 / option 4 / option 5
+    ```  
 ```
  option 1 / option 4 / option 5
 ``` 
