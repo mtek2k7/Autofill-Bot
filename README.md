@@ -13,7 +13,7 @@
   3) Syntax:
 ```
 Action	                Example target	                Description
-Checkbox            |checkbox:Yes	               |Tick the checkbox with label "Yes"
+Checkbox            |checkbox:Yes	             |Tick the checkbox with label "Yes"
 Uncheck checkbox	|!Subscribe or               |Untick the checkbox with label "Subscribe"
                     |uncheck:Subscribe	         |
 Radio	            |radio:Gender:Male	         |Select the radio button labeled "Male" in the "Gender" group
