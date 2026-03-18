@@ -31,9 +31,9 @@
 The bot accepts answers in a simple format such as:
 
 *Mode 1 - how many option do you want to fill. For example: I wanna input 3 options -> Enter '3' -> Enter respectively:*   
- option 1  
- option 2  
- option 3   
+option 1   
+option 2  
+option 3   
 
 or   
 
