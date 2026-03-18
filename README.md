@@ -36,7 +36,7 @@ The bot accepts answers in a simple format such as:
  option 2  
  option 3
 ```
-''' or   
+or   
 
 - *Mode 2 - enter instantly like below structure:*   
 ```
