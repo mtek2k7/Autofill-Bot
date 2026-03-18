@@ -10,6 +10,7 @@
 ```  
   1) Input String list (enter the number of string before entering string by string respectively).
   2) Input One line, items separated by '/' (for example: a / b / !Subscribe). like below:
+  3) If your website has button (Next, submit,...) enter '(Next)' or '(submit)' (for example: a / b / (Next) / !Subscribe)
 ```
 The bot accepts answers in a simple format such as:
 
