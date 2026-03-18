@@ -9,7 +9,7 @@
 - Next step, choosing a mode
 
   **1) Input String list (enter the number of string before entering string by string respectively).**  
-  2) Syntax:
+  2) Syntax:   
   3) Input One line, items separated by '/' (for example: a / b / !Subscribe / (Submit). like below:
   
 
