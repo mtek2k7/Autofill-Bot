@@ -7,11 +7,11 @@
 ### No.2
 - After inputing a key, bot ask "Enter URL - page (For example Google Form or other pages which have checkbox, radio):", you input a link which have checkbox, radio that you request bot mark on
 - Next step, choosing a mode
-```  
+
   1) Input String list (enter the number of string before entering string by string respectively).
   2) Input One line, items separated by '/' (for example: a / b / !Subscribe). like below:
   3) If your website has button (Next, submit,...) enter '(Next)' or '(submit)' (for example: a / b / (Next) / !Subscribe)
-```
+
 The bot accepts answers in a simple format such as:
 
 *Mode 1 - how many option do you want to fill. For example: I wanna input 3 options -> Enter '3' -> Enter respectively:*   
