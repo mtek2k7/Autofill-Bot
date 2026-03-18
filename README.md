@@ -23,7 +23,7 @@
 
 💡 Tip: Labels do not need to be exact. The bot supports fuzzy match and contains match.
 
-   **3) Input One line, items separated by '/' (for example: a / b / !Subscribe / (Submit). like below:**
+```**3) Input One line, items separated by '/' (for example: a / b / !Subscribe / (Submit). like below:**
 The bot accepts answers in a simple format such as:
 
 *Mode 1 - how many option do you want to fill. For example: I wanna input 3 options -> Enter '3' -> Enter respectively:*   
