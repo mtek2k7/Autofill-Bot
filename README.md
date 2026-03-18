@@ -8,7 +8,7 @@
 - After inputing a key, bot ask "Enter URL - page (For example Google Form or other pages which have checkbox, radio):", you input a link which have checkbox, radio that you request bot mark on
 - Next step, choosing a mode
 
- **1) Input String list (enter the number of string before entering string by string respectively).**   
+  **1) Input String list (enter the number of string before entering string by string respectively).**   
  **2) Syntax:**
 
 | Prefix / Syntax               | Action                      | Description / Notes                                                                                  |
