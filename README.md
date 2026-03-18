@@ -11,7 +11,7 @@
   1) Input String list (enter the number of string before entering string by string respectively).
   2) Input One line, items separated by '/' (for example: a / b / !Subscribe). like below:
   3) Syntax:
-```
+
 | Prefix / Syntax               | Action                      | Description / Notes                                                                                  |
 | ----------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------- |
 | `checkbox:Label`              | Check a checkbox            | Finds the checkbox with the given label (exact or fuzzy match).                                      |
@@ -22,10 +22,8 @@
 | `click:Label` / `press:Label` | Click a button              | Directly click a button by its visible text on the page.                                             |
 | No prefix                     | Check a checkbox by default | If no prefix is specified, the bot will try to find a checkbox or radio button.                      |
 
-		
-
 💡 Tip: Labels do not need to be exact. The bot supports fuzzy match and contains match.
-```
+
 
 The bot accepts answers in a simple format such as:
 
