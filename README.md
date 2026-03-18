@@ -12,12 +12,15 @@
   2) Input One line, items separated by '/' (for example: a / b / !Subscribe). like below:
   3) Syntax:
 ```
-Action	              | 	Example target	      |         		Description
+	Action	          | 	Example target	      |         		Description
 --------------------------------------------------------------------------------------------------------------------
 - Checkbox            |	checkbox:Yes	          |	Tick the checkbox with label "Yes"
+					  |							  |
 - Uncheck checkbox	  |	!Subscribe or             |	Untick the checkbox with label "Subscribe"
                       |	uncheck:Subscribe	      |
+					  |							  |
 - Radio	              |	radio:Gender:Male	      |	Select the radio button labeled "Male" in the "Gender" group
+					  |							  |
 - Button / Submit     |	submit, (submit), next,   |	Click a button with text similar to the target.
 / Next                |	click:Continue            |	Bot will scroll into view and wait for page load or URL change
 		
