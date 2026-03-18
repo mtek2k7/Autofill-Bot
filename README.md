@@ -9,7 +9,9 @@
 - Next step, choosing a mode
 
   **1) Input String list (enter the number of string before entering string by string respectively).**  
-  **2) Syntax:**
+  2) Syntax:
+  3) Input One line, items separated by '/' (for example: a / b / !Subscribe / (Submit). like below:
+  
 
 | Prefix / Syntax               | Action                      | Description / Notes                                                                                  |
 | ----------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -23,7 +25,7 @@
 
 💡 Tip: Labels do not need to be exact. The bot supports fuzzy match and contains match.
 
-```**3) Input One line, items separated by '/' (for example: a / b / !Subscribe / (Submit). like below:**
+
 The bot accepts answers in a simple format such as:
 
 *Mode 1 - how many option do you want to fill. For example: I wanna input 3 options -> Enter '3' -> Enter respectively:*   
