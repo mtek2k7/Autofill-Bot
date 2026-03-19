@@ -1,19 +1,16 @@
 Autofill-Bot
 ===============
 **Autofill Bot** is a tool designed to automatically fill answers in forms or multiple-choice quizzes. Instead of manually selecting each option, the bot allows you to input answers in a single line and automatically fills the corresponding **radio buttons** or **checkboxes**.
-
+____________
 How It Works
 ===============
-### No.1
+## No.1
 - Input key (contact me)
-### No.2
+## No.2
 - After inputing a key, bot ask "Enter URL - page (For example Google Form or other pages which have checkbox, radio):", you input a link which have checkbox, radio that you request bot mark on
 - Next step, choosing a mode
-
-#### 1) Input String list (enter the number of string before entering string by string respectively). 
-#### 2) Syntax:
-
-
+### 1. Input String list (enter the number of string before entering string by string respectively). 
+### 2. Syntax:
   
 | Prefix / Syntax               | Action                      | Description / Notes                                                                                  |
 | ----------------------------- | --------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -29,7 +26,7 @@ How It Works
 
 
 
-#### 3) Input One line, items separated by '/' (for example: a / b / !Subscribe / (Submit). like below:
+### 3. Input One line, items separated by '/' (for example: a / b / !Subscribe / (Submit). like below:
 The bot accepts answers in a simple format such as:
 
 *Mode 1 - how many option do you want to fill. For example: I wanna input 3 options -> Enter '3' -> Enter respectively:*   
@@ -72,20 +69,20 @@ After receiving this input, the bot will:
 * Detect the corresponding options in the question
 * Automatically select the correct **radio buttons** or **checkboxes** in the form
 * Fill the answers according to the provided order
-### No.3
+## No.3
 - Login in: If your website require log in, you enter 'y'
 - Enter username and password (note: If you log in on "Google account", please logging in manually)
-### No.4
+## No.4
 - How many times do you want the bot to run (integer >=1): bot will open a number of tab you enter.
 - Run headless? (y/n): if you want bot to open chorme enter 'n'
-
+____________
 Benefits
 ===============
 * ⚡ **Faster** than manually selecting each answer
 * 🤖 **Automates** the process of filling forms or quizzes
 * ⏱ **Saves time** when working with many questions
 * 📋 **Easy to use** with a simple input format
-
+____________
 Usage Tip
 ===============
 You can ask an AI or system to answer all multiple-choice questions and output the results in this format:
@@ -103,8 +100,9 @@ or
  option 1 / option 4 / option 5
 ``` 
 Then paste that line into **Autofill Bot**, and it will quickly select the answers in the form for you.
-
+____________
 How to use
 ===============
 - First, click '<>Code' before clicking 'Download zip'
 - Second, open file autofill_bot.exe in file Autofill-Bot-main.zip
+***
