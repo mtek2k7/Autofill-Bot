@@ -61,7 +61,7 @@ or
 ***Mode 2:*** 
     
 ```
- option 1 / option 4 / option 5
+option 1 / option 4 / option 5
 ``` 
 
 After receiving this input, the bot will:
@@ -89,8 +89,8 @@ You can ask an AI or system to answer all multiple-choice questions and output t
 
 *Mode 1:*   
 ```
- option 1  
- option 2  
+ option 1
+ option 2
  option 3
 ```
 or   
@@ -106,3 +106,7 @@ How to use
 - First, click '<>Code' before clicking 'Download zip'
 - Second, open file autofill_bot.exe in file Autofill-Bot-main.zip
 ***
+You can watch [video tutorial on Youtube](https://duckduckgo.com "Video").   
+Contact information:   
+- <https://www.markdownguide.org>   
+- <fake@example.com>
