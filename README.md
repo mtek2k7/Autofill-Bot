@@ -1,4 +1,4 @@
-# Autofill-Bot
+Autofill-Bot
 ===============
 **Autofill Bot** is a tool designed to automatically fill answers in forms or multiple-choice quizzes. Instead of manually selecting each option, the bot allows you to input answers in a single line and automatically fills the corresponding **radio buttons** or **checkboxes**.
 
